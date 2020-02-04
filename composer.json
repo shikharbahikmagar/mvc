@@ -8,5 +8,8 @@
     		"email": "shikharbahik5@gmail.com"
     	}
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+    	"psr-4": {"MVC\\": "Src/"}
+    }
 }
