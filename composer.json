@@ -1,0 +1,12 @@
+{
+    "name": "shikhar/mvc",
+    "description": "class work",
+    "type": "project",
+    "author": [
+    	{
+    		"name": "Shikhar ",
+    		"email": "shikharbahik5@gmail.com"
+    	}
+    ],
+    "require": {}
+}
